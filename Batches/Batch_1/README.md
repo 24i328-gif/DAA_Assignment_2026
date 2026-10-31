@@ -5,9 +5,8 @@
 | Roll No. | Name | GitHub username | Part presented | Contribution (code, report sections) |
 |----------|------|-----------------|----------------|--------------------------------------|
 | 24I328 | Madhumitha N | 24i328-gif| Slides 1–7 (problem, model, technique, algorithm, trace, proof, complexity and worst case) | Code: main_solution.py, rejected_alternative.py, generate_inputs.py, test_all.py, benchmark.py, analysis_tools.py, make_trace.py. Results: timing.csv, timing_plot.png, search tree, full trace. Report: sections 1–3 and 5–9 (modelling, data structures, technique, algorithm, correctness proof, trace, complexity, worst case), slides.pdf |
-| `[Member 2 roll no.]` | `[Member 2 name]` | `[member-2-github]` | Slides 8–13 (rejected techniques, experiments, ±₹50 change, reference, conclusion) | `[EDIT to match your own commits: e.g. verify_independent.py, hand verification, benchmark re-run, §4/§10–13 review, reference validation]` |
+| 24I335 | Nivedhini M | Nivedhini-2212 | Slides 8–13 (rejected techniques, experiments, ±₹50 change, reference, conclusion) | Code: verify_independent.py (independent brute-force implementation, 200-case cross-check against the main solver, hard-input state-count check, mutation test). Verification: MEMBER2_VERIFICATION.md (hand verification of the two solutions, arithmetic review of sections 2 and 4, benchmark reproducibility check, changed-requirement check, reference validation). Benchmark re-run on own machine and review of report sections 4 and 10–13 |
 
-> Both rows are placeholders. Each member must fill in their own details and the contribution that matches their own commits (see `MEMBER_2_TASKS.md`).
 
 ## Presentation
 
