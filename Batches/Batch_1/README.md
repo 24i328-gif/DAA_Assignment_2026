@@ -278,8 +278,4 @@ Solutions grow roughly in proportion to the window width (here roughly proportio
 * **Golomb, S. W. and Baumert, L. D., "Backtrack Programming", *Journal of the ACM* 12(4): 516–524, October 1965.** DOI: <https://doi.org/10.1145/321296.321300>; also described in the NIST *Dictionary of Algorithms and Data Structures*: <https://www.nist.gov/dads/HTML/backtrack.html>. This is the classic early description of the backtracking technique (a depth-first search of partial solutions that abandons a partial solution as soon as it cannot lead to a valid one). It is a general method, not a Subset Sum solver; our contribution is the problem-specific cut-offs (Lemmas A and B).
 * **Python documentation, `itertools.combinations`:** <https://docs.python.org/3/library/itertools.html>. We use it only inside the *rejected* brute-force alternative as a generic exhaustive enumerator of subsets; it generates all `C(n,k)` combinations in lexicographic order and has no notion of a target or of pruning.
 
----
 
-### Appendix: files in this folder
-
-`README.md` (this report) · `slides.pdf` · `MEMBER_2_TASKS.md` · `code/` (`main_solution.py`, `rejected_alternative.py`, `generate_inputs.py`, `RUN.md`, plus `benchmark.py`, `test_all.py`, `verify_independent.py`, `analysis_tools.py`, `extra_experiments.py`, `make_trace.py`) · `results/` (`timing.csv`, `timing_large_n.csv`, `timing_plot.png`, `search_tree.png`) · `extras/` (`TRACE.md`, `SPEAKER_SCRIPT.md` with viva Q&A, `MEMBER2_VERIFICATION.md`, `GITHUB_GUIDE.md`, `PULL_REQUEST_TEXT.md`, `FINAL_CHECKLIST.md`).
