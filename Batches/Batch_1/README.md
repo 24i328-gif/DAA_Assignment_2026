@@ -10,8 +10,8 @@
 
 ## Presentation
 
-- Video link: `[PASTE LINK HERE — Google Drive (PSG account) or YouTube Unlisted; "Anyone with the link can view"]`
-- Duration: `[mm:ss]` (maximum 12:00; planned script ≈ 10:45)
+- Video link: https://youtu.be/mclYJj7JDUA?si=PWV4xWdP6RvlkaQb
+- Duration: 11:11
 - Slides: [slides.pdf](slides.pdf)
 
 ---
